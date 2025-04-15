@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35806.99 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAuthentication", "FormAuthentication\FormAuthentication.csproj", "{F6640D22-1D7A-4BE7-969C-486BC42619FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthentication", "WindowsAuthentication\WindowsAuthentication.csproj", "{97E8BA73-511A-47D5-B0D1-8B65C8B0C0AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F6640D22-1D7A-4BE7-969C-486BC42619FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6640D22-1D7A-4BE7-969C-486BC42619FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6640D22-1D7A-4BE7-969C-486BC42619FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E8BA73-511A-47D5-B0D1-8B65C8B0C0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E8BA73-511A-47D5-B0D1-8B65C8B0C0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E8BA73-511A-47D5-B0D1-8B65C8B0C0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E8BA73-511A-47D5-B0D1-8B65C8B0C0AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
